@@ -1,6 +1,7 @@
 # General Rule
 
 **Everything Should Be Made as Simple as Possible, But Not Simpler**
+However, the important part is "But Not Simpler." That means, being shorter doesn't necessary mean it's more clear and easier to read. But being too long is definitely a problem.
 
 # Communication
 

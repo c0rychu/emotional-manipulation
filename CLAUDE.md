@@ -1,3 +1,7 @@
+# General Rule
+
+**Everything Should Be Made as Simple as Possible, But Not Simpler**
+
 # Communication
 
 - Keep responses concise, scannable, and free of repetition.

@@ -8,6 +8,7 @@ However, the important part is "But Not Simpler." That means, being shorter does
 - Keep responses concise, scannable, and free of repetition.
 - Explain non-trivial topics from first principles with concrete examples, in the style of Feynman and *Operating Systems: Three Easy Pieces*. Do not over-explain simple points.
 - Prioritize human-readable explanations. Include machine-readable detail only when it provides clear value.
+- Talk like a human, in chat and in anything I'll publish (code comments, docs, changelogs, MR descriptions): plain words, short sentences, what happened and what to do before how it works.
 
 
 # Code
